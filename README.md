@@ -5,7 +5,7 @@
 - 💞️ I’m looking for help to secure my VITBHOPAL Application
 - 📫 How to reach me ?? [CLICK HERE](https://github.com/VDP-VITBHOPAL/discussion/discussions)
 - 🐞 [Report a bug ??](https://github.com/VDP-VITBHOPAL/submission/issues)
-  
+- 🧑🏻‍💻 [HOF PAGE](https://github.com/VDP-VITBHOPAL/HOF)  
 
 # SCOPE
 - *.vitbhopal.ac.in
