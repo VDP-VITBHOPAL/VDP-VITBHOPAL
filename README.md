@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to secure my orginization
 - 💞️ I’m looking for help to secure my VITBHOPAL Application
 - 📫 How to reach me ?? [CLICK HERE](https://github.com/VDP-VITBHOPAL/discussion/discussions)
+- 🐞 [Report a bug ??](https://github.com/VDP-VITBHOPAL/submission/issues)
 
 <!---
 VDP-VITBHOPAL/VDP-VITBHOPAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
